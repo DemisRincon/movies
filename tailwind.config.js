@@ -18,6 +18,10 @@ module.exports = {
         },
         accent: "#AB8BFF"
       },
+      fontFamily: {
+        roboto: ['Roboto_Condensed-Regular', 'sans-serif'],
+      },
+
     }
   },
   plugins: [],
